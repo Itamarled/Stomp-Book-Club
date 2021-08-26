@@ -47,7 +47,7 @@ Make sure that boost is installed.
 > client.exe
 
 ## Run Examples
-First run the Server with port number and and decided to use tpc or reactor. Then you will see The Server is on, and after that you can run the client, and give commands from there.
+First run the Server with port number and decide between useing tcp or reactor. Then you will see The Server is on, and after that you can run the client, and give commands from there.
 
 #### Input explanation
 program would accept any of the next input text below from the client side:
